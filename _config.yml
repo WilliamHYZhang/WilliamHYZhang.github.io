@@ -1,1 +1,5 @@
+title: William Zhang # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <center>thinking and doing</center>
 theme: jekyll-theme-minimal
