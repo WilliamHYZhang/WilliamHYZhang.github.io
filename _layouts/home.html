@@ -1,0 +1,140 @@
+---
+layout: default
+---
+
+<!-- Page Header -->
+{% if page.background %}
+<header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
+{% else %}
+<header class="masthead">
+{% endif %}
+  <div class="overlay"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <div class="page-heading">
+          <h1>Hello, World</h1>
+          <p></p>
+          <!-- The typewriter effect is quite ugly in code, straight up copied from online. Apologies. -->
+          <div class="container">
+            <h2>
+              I'm a
+              <!-- The words that we want to have typewriter effect -->
+              <span class="txt-type" data-wait="1000" data-words='["software engineer.", "researcher.", "builder.", "food lover.", "fitness enthusiast."]'></span>
+            </h2>
+          </div>
+          <script>
+          class TypeWriter {
+            constructor(txtElement, words, wait = 1500) {
+              this.txtElement = txtElement;
+              this.words = words;
+              this.txt = "";
+              this.wordIndex = 0;
+              this.wait = parseInt(wait, 10);
+              this.type();
+              this.isDeleting = false;
+            }
+          
+            type() {
+              // Current index of word
+              const current = this.wordIndex % this.words.length;
+              // Get full text of current word
+              const fullTxt = this.words[current];
+          
+              // Check if deleting
+              if (this.isDeleting) {
+                // Remove characters
+                this.txt = fullTxt.substring(0, this.txt.length - 1);
+              } else {
+                // Add charaters
+                this.txt = fullTxt.substring(0, this.txt.length + 1);
+              }
+          
+              // Insert txt into element
+              this.txtElement.innerHTML = `<span class="txt">${this.txt}</span>`;
+          
+              // Initial Type Speed
+              let typeSpeed = 69;
+              if (this.isDeleting) {
+                  typeSpeed /= 2;
+              }
+          
+              // If word is complete
+              if (!this.isDeleting && this.txt === fullTxt) {
+                // Make pause at end
+                typeSpeed = this.wait;
+                // Set delete to true
+                this.isDeleting = true;
+              } else if (this.isDeleting && this.txt === "") {
+                this.isDeleting = false;
+                // Move to next word
+                this.wordIndex++;
+                // Pause before start typing
+                typeSpeed = 500;
+              }
+          
+              setTimeout(() => this.type(), typeSpeed);
+            }
+          }
+          
+          // Init On DOM Load
+          document.addEventListener("DOMContentLoaded", init);
+          
+          // Init App
+          function init() {
+            const txtElement = document.querySelector(".txt-type");
+            const words = JSON.parse(txtElement.getAttribute("data-words"));
+            const wait = txtElement.getAttribute("data-wait");
+            // Init TypeWriter
+            new TypeWriter(txtElement, words, wait);
+          }
+          
+          </script>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-md-10 mx-auto">
+
+      {{ content }}
+
+      <!-- Home Post List -->
+      {% for post in site.posts limit : 3 %}
+
+      <article class="post-preview">
+        <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+          <h2 class="post-title">{{ post.title }}</h2>
+          {% if post.subtitle %}
+          <h3 class="post-subtitle">{{ post.subtitle }}</h3>
+          {% else %}
+          <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
+          {% endif %}
+        </a>
+        <p class="post-meta">Posted by
+          {% if post.author %}
+          {{ post.author }}
+          {% else %}
+          {{ site.author }}
+          {% endif %}
+          on
+          {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}            
+        </p>
+      </article>
+
+      <hr>
+
+      {% endfor %}
+
+      <!-- Pager -->
+      <div class="clearfix">
+        <a class="btn btn-primary float-right" href="{{"/posts" | relative_url }}">View All Posts &rarr;</a>
+      </div>
+
+    </div>
+  </div>
+</div>

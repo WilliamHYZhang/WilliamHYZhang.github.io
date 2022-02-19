@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-18T19:15:38-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">William Zhang</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>William Zhang</name></author><entry><title type="html">Successes and Failures</title><link href="http://localhost:4000/posts/successes-and-failures" rel="alternate" type="text/html" title="Successes and Failures" /><published>2022-02-18T00:00:00-05:00</published><updated>2022-02-18T00:00:00-05:00</updated><id>http://localhost:4000/posts/successes-and-failures</id><content type="html" xml:base="http://localhost:4000/posts/successes-and-failures">&lt;p&gt;In order to chase success, we have to face failure along the way. Here’s a look into my journey so far. I think it’s important to share this because it highlights the impact of ambition. To me, successes and failures are just consequences of taking meaningful risks.&lt;/p&gt;
+
+&lt;p&gt;I’ll try and keep this up-to-date, but this list is very much non-comprehensive.&lt;/p&gt;
+
+&lt;p&gt;Last Updated: Feb. 18, 2022&lt;/p&gt;
+
+&lt;h1 id=&quot;successes&quot;&gt;Successes&lt;/h1&gt;
+&lt;h2 id=&quot;2022&quot;&gt;2022&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Named a Regeneron STS Scholar&lt;/li&gt;
+  &lt;li&gt;Hydra wins the Best Paper Award from IEEE&lt;/li&gt;
+  &lt;li&gt;Accepted into some schools&lt;/li&gt;
+  &lt;li&gt;Landed a consulting gig with a crypto startup&lt;/li&gt;
+  &lt;li&gt;Got back to engineering at Clay&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;2021&quot;&gt;2021&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Founded the Hydra project: invented verifiable compute protocols, built out the framework, wrote a manuscript, got it published and raised grant funding from Emergent Ventures&lt;/li&gt;
+  &lt;li&gt;First expenses-paid trips to Washington DC, Boston, and upstate NY for conferences and retreats&lt;/li&gt;
+  &lt;li&gt;Got to meet amazing researchers, entrepreneurs, and VCs&lt;/li&gt;
+  &lt;li&gt;Built out complete authentication and security infrastructure at Clay&lt;/li&gt;
+  &lt;li&gt;Hired as an instructor for machine learning and advanced computer science&lt;/li&gt;
+  &lt;li&gt;Won a couple of programming awards&lt;/li&gt;
+  &lt;li&gt;Kicked out of all-you-can-eat sushi for eating too much :)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;2020&quot;&gt;2020&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Named the Google Code-in Grand Prize Winner for TensorFlow&lt;/li&gt;
+  &lt;li&gt;First software engineering internship at Clay after a handful of applications and interviews&lt;/li&gt;
+  &lt;li&gt;Landed contracting gig with crypto startup&lt;/li&gt;
+  &lt;li&gt;Landed research position with MIT CSAIL&lt;/li&gt;
+  &lt;li&gt;Founding member of RGBsec and later joined Pwnzorz, internationally ranked in cybersecurity CTFs&lt;/li&gt;
+  &lt;li&gt;Started contributing to Mathisi-fy, raised funding and organized hackathons&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;failures&quot;&gt;Failures&lt;/h1&gt;
+&lt;h2 id=&quot;2022-1&quot;&gt;2022&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Suffering from major senioritis in academics&lt;/li&gt;
+  &lt;li&gt;Deferred and rejected from schools&lt;/li&gt;
+  &lt;li&gt;Failed to advance to the second round of a REGIONAL science fair&lt;/li&gt;
+  &lt;li&gt;Devolved to the mind-state of a jellyfish during school hours&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;2021-1&quot;&gt;2021&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Rejected from a school&lt;/li&gt;
+  &lt;li&gt;Rejected from scholarships&lt;/li&gt;
+  &lt;li&gt;Rejected from MIT PRIMES and RSI&lt;/li&gt;
+  &lt;li&gt;Hydra rejected from ACM and IEEE conference&lt;/li&gt;
+  &lt;li&gt;Rejected from OxPARC’s ZK workshop&lt;/li&gt;
+  &lt;li&gt;Decided not to pursue working with a well-funded crypto startup I would’ve had major equity in&lt;/li&gt;
+  &lt;li&gt;Started to become a down bad couch potato (not anymore)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;2020-1&quot;&gt;2020&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Rejected after interviews with tech companies (trading firms, AI, SaaS)&lt;/li&gt;
+  &lt;li&gt;Dropped out of US Army-funded research program since I wasn’t interested in it&lt;/li&gt;
+  &lt;li&gt;Research was scooped just before publication&lt;/li&gt;
+  &lt;li&gt;Rejected in real life&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;This post is inspired by a couple of personal pages, including websites by &lt;a href=&quot;https://calix.dev/blog/failures&quot;&gt;Calix Huang&lt;/a&gt;, &lt;a href=&quot;https://www.katmh.com/fail&quot;&gt;Kat Huang&lt;/a&gt;, and &lt;a href=&quot;https://jzhao.xyz/posts/a-failure-resume/&quot;&gt;Jacky Zhao&lt;/a&gt;.&lt;/p&gt;</content><author><name>William Zhang</name></author><summary type="html">In order to chase success, we have to face failure along the way. Here’s a look into my journey so far. I think it’s important to share this because it highlights the impact of ambition. To me, successes and failures are just consequences of taking meaningful risks. I’ll try and keep this up-to-date, but this list is very much non-comprehensive. Last Updated: Feb. 18, 2022 Successes 2022 Named a Regeneron STS Scholar Hydra wins the Best Paper Award from IEEE Accepted into some schools Landed a consulting gig with a crypto startup Got back to engineering at Clay 2021 Founded the Hydra project: invented verifiable compute protocols, built out the framework, wrote a manuscript, got it published and raised grant funding from Emergent Ventures First expenses-paid trips to Washington DC, Boston, and upstate NY for conferences and retreats Got to meet amazing researchers, entrepreneurs, and VCs Built out complete authentication and security infrastructure at Clay Hired as an instructor for machine learning and advanced computer science Won a couple of programming awards Kicked out of all-you-can-eat sushi for eating too much :) 2020 Named the Google Code-in Grand Prize Winner for TensorFlow First software engineering internship at Clay after a handful of applications and interviews Landed contracting gig with crypto startup Landed research position with MIT CSAIL Founding member of RGBsec and later joined Pwnzorz, internationally ranked in cybersecurity CTFs Started contributing to Mathisi-fy, raised funding and organized hackathons Failures 2022 Suffering from major senioritis in academics Deferred and rejected from schools Failed to advance to the second round of a REGIONAL science fair Devolved to the mind-state of a jellyfish during school hours 2021 Rejected from a school Rejected from scholarships Rejected from MIT PRIMES and RSI Hydra rejected from ACM and IEEE conference Rejected from OxPARC’s ZK workshop Decided not to pursue working with a well-funded crypto startup I would’ve had major equity in Started to become a down bad couch potato (not anymore) 2020 Rejected after interviews with tech companies (trading firms, AI, SaaS) Dropped out of US Army-funded research program since I wasn’t interested in it Research was scooped just before publication Rejected in real life This post is inspired by a couple of personal pages, including websites by Calix Huang, Kat Huang, and Jacky Zhao.</summary></entry></feed>
