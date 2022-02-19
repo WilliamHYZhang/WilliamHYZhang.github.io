@@ -2,7 +2,6 @@
 layout: post
 title:  'Successes and Failures'
 date:   2022-02-18
-background: '../img/orb.jpg'
 permalink: 'posts/successes-and-failures'
 ---
 
