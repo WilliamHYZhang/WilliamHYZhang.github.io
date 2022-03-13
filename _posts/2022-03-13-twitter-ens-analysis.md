@@ -33,6 +33,8 @@ A total of 2853 users were sampled across different categories such as art and N
 | NFT          |  479    |  46       |  9.6%        |
 | DAO          |  716    |  26       |  3.63%       |
 
+Side note: bro why does this Jekyll theme produce such terrible tables? If anyone wants to help me fix the spacing lmk.
+
 See the code and some more graphs (follower/following data) on Github [here](https://github.com/WilliamHYZhang/Twitter-ENS-Analysis).
 
 # What Does This Mean?
