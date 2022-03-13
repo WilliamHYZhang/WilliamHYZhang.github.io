@@ -25,13 +25,13 @@ Results were written to a file and then parsed/analyzed later. The scripts took 
 
 A total of 2853 users were sampled across different categories such as art and NFTs. Here's a breakdown of the basic statistics:
 
-| Category   | Total | Invalid | Percentage |
-|------------|-------|---------|------------|
-| Population | 2853  | 141     | 4.94%      |
-| General    | 872   | 18      | 2.06%      |
-| Art        | 786   | 51      | 6.49%      |
-| NFT        | 479   | 46      | 9.6%       |
-| DAO        | 716   | 26      | 3.63%      |
+| Category     |  Total  |  Invalid  |  Percentage  |
+|--------------|---------|-----------|--------------|
+| Population   |  2853   |  141      |  4.94%       |
+| General      |  872    |  18       |  2.06%       |
+| Art          |  786    |  51       |  6.49%       |
+| NFT          |  479    |  46       |  9.6%        |
+| DAO          |  716    |  26       |  3.63%       |
 
 See the code and some more graphs (follower/following data) on Github [here](https://github.com/WilliamHYZhang/Twitter-ENS-Analysis).
 
