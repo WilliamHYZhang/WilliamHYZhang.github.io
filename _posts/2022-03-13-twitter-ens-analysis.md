@@ -9,7 +9,7 @@ There's a lot of fishy stuff going on in the crypto/web3 space, which prompted m
 
 This weekend, I found out. Here's how.
 
-__TLDR: anywhere ranging from 2-10% depending on the user category.__
+__TLDR: depending on the user category, anywhere ranging from 2-10% of domains DON'T resolve to an address.__
 
 # Setup
 
