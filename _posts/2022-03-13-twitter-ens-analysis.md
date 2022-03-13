@@ -41,7 +41,7 @@ See the code and some more graphs (follower/following data) on Github [here](htt
 
 I'm interested how invalid ENS domains relate to web2.0 link rot. It's cool that the population 4.94% of invalid .eth domains is quite close to the [6% of inaccessible links from 2018 sources](https://www.theverge.com/2021/5/21/22447690/link-rot-research-new-york-times-domain-hijacking) (around the same time as the start of ENS).
 
-I think that we can treat this invalid .eth domain percentage as a measure of the maturity of a certain sector of the crypto world. For example, I mean just _look_ at the NFT invalid link percentage (~10%). Yeah, I'm not getting involved in that shit anytime soon. On the other hand, I'm impressed at the "maturity" of DAOs, they seem to be pretty nice (I don't think I'll fall for a DAO scam).
+I think that we can treat this invalid .eth domain percentage as a measure of the maturity of a certain sector of the crypto world. A user having an invalid .eth domain either means they lack the intellect to configure their domain correctly, the domain expired, or (most likely) they are simply obliviously buying into the crypto hype. For example, I mean just _look_ at the NFT invalid link percentage (~10%). Yeah, I'm not getting involved in that shit anytime soon. On the other hand, I'm impressed at the "maturity" of DAOs, they seem to be pretty nice (I don't think I'll fall for a DAO scam).
 
 
 # Limitations
