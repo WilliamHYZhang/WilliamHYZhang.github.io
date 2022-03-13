@@ -52,6 +52,8 @@ I think that we can treat this invalid .eth domain percentage as a measure of th
   
 - In hindsight I realize that these categories are likely to be non-disjoint, so the set I used to prevent duplicates across categories should probably be removed.
 
+- Kicking myself for not exporting as a CSV in the scrape job instead of crapping out a text file.
+
 If anyone wants to address these limitations or just make this analysis and data collection process more robust, feel free to open up a PR on my repo.
 
 # Conclusion
