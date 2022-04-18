@@ -8,11 +8,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <title>
-    About - William Zhang
+    Twitter Giveaway Bot - William Zhang
     
   </title>
 
-  <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search resu...">
+  <meta name="description" content="Way back when in late 2019, I became aware of this absolute genius of a man through a DefCon YouTube video here who essentially used Twitter’s API to enter e...">
 
   <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
@@ -20,7 +20,7 @@
   <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script>
 
   <link rel="stylesheet" href="/assets/main.css">
-  <link rel="canonical" href="http://localhost:4000/about.html">
+  <link rel="canonical" href="http://localhost:4000/posts/twitter-giveaway-bot">
   <link rel="alternate" type="application/rss+xml" title="William Zhang" href="/feed.xml">
 
 </head>
@@ -56,64 +56,61 @@
 
   <!-- Page Header -->
 
-<header class="masthead" style="background-image: url('/img/bg-about.jpg')">
+<header class="masthead">
   
-    <div class="overlay"></div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 col-md-10 mx-auto">
-          <div class="page-heading">
-            <h1>About</h1>
-            
-          </div>
-        </div>
-      </div>
-    </div>
-  </header>
-
+  <div class="overlay"></div>
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
+        <div class="post-heading">
+          <h1>Twitter Giveaway Bot</h1>
+          
+          <span class="meta">Posted by
+            <a href="#">William Zhang</a>
+            on February 27, 2021 &middot; <span class="reading-time" title="Estimated read time">
+  
+   2 mins  read </span>
 
-        <h1 id="about-me">About Me</h1>
-
-<div class="row">
-  <div class="col-md">
-    <p><img src="/img/pfp.png" /></p>
-  </div>
-  <div class="col-md" style="display: flex;
-  justify-content: center;
-  align-content: center;
-  flex-direction: column;">
-    <p>I’m currently a high school senior based on Long Island, New York. Outside of school, I’m interested in security (crypto/web3) and AI. I like to lift heavy things, eat yummy food, and build cool stuff.</p>
-  </div>
-</div>
-
-<p></p>
-
-<h3 id="what-am-i-currently-up-to">What am I currently up to?</h3>
-<ul>
-  <li>Enjoying the last semester of senior year</li>
-  <li>Strategic Advisor at Emergent Ventures AI x Schmidt Futures</li>
-  <li>Crypto/AI <a href="https://www.hydrasec.ml/" target="_blank"><u>research</u></a> with <a href="https://www.csail.mit.edu" target="_blank"><u>MIT CSAIL</u></a> (IEEE Best Paper Award, Emergent Ventures Grantee, Regeneron STS Scholar)</li>
-</ul>
-
-<h3 id="what-have-i-previously-done">What have I previously done?</h3>
-<ul>
-  <li>Technical consulting at [Stealth Crypto Startup]</li>
-  <li>Software engineering at <a href="https://www.clay.com/" target="_blank"><u>Clay</u></a></li>
-  <li>Crypto infrastructure architecting at <a href="https://ponto.org/" target="_blank"><u>Ponto</u></a></li>
-  <li>Open-source development at <a href="https://www.tensorflow.org/" target="_blank"><u>TensorFlow</u></a> (Google Code-in Grand Prize Winner)</li>
-  <li>Competitive <a href="https://github.com/WilliamHYZhang/Competitive-Programming" target="_blank"><u>programming</u></a> and cybersecurity <a href="https://rgbsec.org/" target="_blank"><u>CTFs</u></a>.</li>
-  <li>Freelancing</li>
-</ul>
-
-<p>Generally, I’m full of ideas that turn into either fun <a href="https://github.com/WilliamHYZhang/Twitter-Giveaway-Bot" target="_blank">side projects</a> or complete <a href="https://github.com/WilliamHYZhang/Hydra" target="_blank">frameworks</a>. Read about my <a href="/posts/successes-and-failures.html">successes and failures</a>, and if you vibe with the kind of work I do, don’t hesitate to reach out below.</p>
-
-
+          </span>
+        </div>
       </div>
     </div>
   </div>
+</header>
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-md-10 mx-auto">
+
+      <p>Way back when in late 2019, I became aware of this absolute genius of a man through a DefCon YouTube video <a href="https://www.youtube.com/watch?v=iAOOdYsK7MM">here</a> who essentially used Twitter’s API to enter every single Twitter giveaway on the platform, and he ended up winning some pretty cool stuff.</p>
+
+<p>That year I built out a program, registered for a Twitter dev account “for educational purposes” and all that jazz, and I think in two weeks or so got banned.</p>
+
+<p>Anyways, I came back to it over the past winter break and was determined to make it better. I think it took a couple hours to just revamp that old
+code and make sure I wasn’t at risk of getting banned again. Previously I had it running on my regular computer, but now I have an old Dell
+desktop that I configured to be run as a Linux server so the code is just running there now.</p>
+
+<p>Some notes about what I had changed:</p>
+<ul>
+  <li>No more follower churn/queue, mainly because it was too risky.</li>
+  <li>Same thing with likes, I removed the liking feature entirely since I’m pretty sure that’s why I got banned last time.</li>
+  <li>Limited following.</li>
+  <li>And finally, probably the most big brain move. To maintain a healthy following/follower ratio, I now farm follows by tweeting “giveaway-like” tweets every so often, and have bots that OTHER people create like, follow, and retweet :))</li>
+</ul>
+
+<p>And yeah, that’s pretty much it. I’ve mostly won some small stuff like Pokemon codes, Roblox stuff, and other video game prizes that I’m too lazy to claim but I check in with it every once it a while. Check out the bot in action <a href="https://twitter.com/LuckyWillyV2">here</a>.</p>
+
+<hr />
+<p>Addendum: April 14th, 2022</p>
+
+<p>Finally ported over this old blog post with a couple of edits. Unfortunately, @LuckyWillyV2 is no longer active because I don’t have enough ethernet connections to support my server. Check out highly outdated code <a href="https://github.com/WilliamHYZhang/Twitter-Giveaway-Bot">here</a>.</p>
+
+<p>Fun fact: I talked about this project on one of my Harvard supplemental essays!</p>
+
+
+    </div>
+  </div>
+</div>
 
 
   <!-- Footer -->

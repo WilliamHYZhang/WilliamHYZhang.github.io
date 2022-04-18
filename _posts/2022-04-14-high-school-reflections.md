@@ -31,7 +31,7 @@ In mid-December, I got rejected by Stanford's restrictive early action program. 
 
 It just so happened that during winter break my parents decided to take the entire family to Texas. I promptly caught COVID and was completely clonked out. I spent a grueling week high off my ass with cough drops, Tylenol, and the sorest throat possibly imaginable. During that time, I pretty much just wrote whatever came out my head for those college supplementals and submitted them right then and there.
 
-Going into January I got into UMD and UIUC/Georgia Tech (CS), which I was happy about. However, in February and early-mid March I got deferred => waitlisted at UMich, rejected from UCSD CS, waitlisted at both MIT (which I literally did research and published a first-author paper with!!) and CMU, and rejected from Berkeley. At this point I thought Georgia Tech (my top choice) wasn't really worth it, and I was just going to skip college and go directly into industry.
+Going into January I got into UIUC/Georgia Tech (CS), which I was happy about. However, in February and early-mid March I got deferred => waitlisted at UMich, rejected from UCSD CS, waitlisted at both MIT (which I literally did research and published a first-author paper with!!) and CMU, and rejected from Berkeley. At this point I thought Georgia Tech (my top choice) wasn't really worth it, and I was just going to skip college and go directly into industry.
 
 Finally, on Ivy Day (March 31st) I was pleasantly surprised. Here's a rundown of my results:
 
@@ -70,15 +70,16 @@ Currently, I'm planning on concentrating in CS and taking a relatively easy work
 
 Addendum:
 
-Regarding gap years, I totally support them. I was originally planning on working in the Bay for a year to establish California residency (because I thought I was gonna get into UC Berkeley's MET program, silly me); that plan went out the window.
+Regarding gap years, I totally support them. I was originally planning on working in the Bay for a year to establish California residency (because I thought I was gonna get into UC Berkeley's MET program, silly me); that plan went out the window. However, now I'm really excited to go to college and meet new people, which is why there's really no need for me to take a gap year.
 
 # Advice
 
 Am I qualified to give advice? I've gotten a lot of cold DMs on Twitter about advice, wanting to call/chat, etc. Maybe I'll direct some to this post. With further ado, here's some of my tips for young, smart, motivated high schoolers:
 - Don't spend too much time on academics (grades, classes, etc.). Law of diminishing returns - obviously take "hard" classes, but if it gets to a point where you are spending significant amounts of time studying and staying up late because of academics, it probably isn't worth it.
-  - I just realized I didn't talk about grades or test scores at all - go figure. I was able to coast by most classes with an A, got 5s on the APs and ~1500 on the SAT. I hate studying (maybe I should write another blog post on why studying for tests and shit is completely useless in the long run), so honestly if you can do decently great on tests with little or no studying you're in an amazing position. That being said, I didn't just "not study" throughout high school. I wish I could've done that, but I did a fair amount of "learning the unit right before the exam".
+  - I just realized I didn't talk about grades or test scores at all - go figure. I was able to coast by most classes with an A, got 5s on the APs and ~1500 on the SAT. 
+  - I hate studying (maybe I should write another blog post on why studying for tests and shit is completely useless in the long run), so honestly if you can do decently great on tests with little or no studying you're in an amazing position. That being said, I didn't just "not study" throughout high school. I wish I could've done that, but I did a fair amount of "learning the unit right before the exam".
 - Do what you love. If you don't know what your "passion" is, then spend meaningful time finding it. Don't just fall into the workaholic academic hellhole to distract yourself. I'm sure most people reading this post, however, have got this tip figured out already.
-- **BE ACTIVE AND HEALTHY**. Work out. Run. Lift. Go outside. Touch grass. Eat your protein.
+- **BE ACTIVE AND HEALTHY**. Nobody likes a couch potato. Work out. Run. Lift. Go outside. Touch grass. Eat your protein.
 - Some generic tips that I still like:
   - Find communities.
   - Do competitions.
