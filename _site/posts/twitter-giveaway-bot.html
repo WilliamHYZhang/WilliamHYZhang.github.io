@@ -8,11 +8,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <title>
-    Posts - William Zhang
+    Twitter Giveaway Bot - William Zhang
     
   </title>
 
-  <meta name="description" content="Personal Website">
+  <meta name="description" content="Way back when in late 2019, I became aware of this absolute genius of a man through a DefCon YouTube video here who essentially used Twitter’s API to enter e...">
 
   <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
@@ -20,7 +20,7 @@
   <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script>
 
   <link rel="stylesheet" href="/assets/main.css">
-  <link rel="canonical" href="http://localhost:4000/posts/">
+  <link rel="canonical" href="http://localhost:4000/posts/twitter-giveaway-bot">
   <link rel="alternate" type="application/rss+xml" title="William Zhang" href="/feed.xml">
 
 </head>
@@ -56,121 +56,61 @@
 
   <!-- Page Header -->
 
-<header class="masthead" style="background-image: url('/img/bg-posts.jpg')">
+<header class="masthead">
   
-    <div class="overlay"></div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 col-md-10 mx-auto">
-          <div class="page-heading">
-            <h1>Posts</h1>
-            
-          </div>
-        </div>
-      </div>
-    </div>
-  </header>
-
+  <div class="overlay"></div>
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
-
-        
-
-<article class="post-preview">
-  <a href="/posts/high-school-reflections">
-    <h2 class="post-title">High School Reflections</h2>
-    
-    <h3 class="post-subtitle">It’s hard to believe that I’m going to be graduating high school in a couple...</h3>
-    
-  </a>
-  <p class="post-meta">Posted by
-    
-    William Zhang
-    
-    on April 14, 2022 &middot; <span class="reading-time" title="Estimated read time">
-  
-   10 mins  read </span>
-
-  </p>
-</article>
-
-<hr>
-
-
-
-<article class="post-preview">
-  <a href="/posts/twitter-ens-analysis">
-    <h2 class="post-title">Twitter ENS Analysis</h2>
-    
-    <h3 class="post-subtitle">There’s a lot of fishy stuff going on in the crypto/web3 space, which prompted me...</h3>
-    
-  </a>
-  <p class="post-meta">Posted by
-    
-    William Zhang
-    
-    on March 13, 2022 &middot; <span class="reading-time" title="Estimated read time">
-  
-   5 mins  read </span>
-
-  </p>
-</article>
-
-<hr>
-
-
-
-<article class="post-preview">
-  <a href="/posts/successes-and-failures">
-    <h2 class="post-title">Successes and Failures</h2>
-    
-    <h3 class="post-subtitle">In order to chase success, we have to face failure along the way. Here’s a...</h3>
-    
-  </a>
-  <p class="post-meta">Posted by
-    
-    William Zhang
-    
-    on February 18, 2022 &middot; <span class="reading-time" title="Estimated read time">
-  
-   3 mins  read </span>
-
-  </p>
-</article>
-
-<hr>
-
-
-
-<article class="post-preview">
-  <a href="/posts/twitter-giveaway-bot">
-    <h2 class="post-title">Twitter Giveaway Bot</h2>
-    
-    <h3 class="post-subtitle">Way back when in late 2019, I became aware of this absolute genius of a...</h3>
-    
-  </a>
-  <p class="post-meta">Posted by
-    
-    William Zhang
-    
-    on February 27, 2021 &middot; <span class="reading-time" title="Estimated read time">
+        <div class="post-heading">
+          <h1>Twitter Giveaway Bot</h1>
+          
+          <span class="meta">Posted by
+            <a href="#">William Zhang</a>
+            on February 27, 2021 &middot; <span class="reading-time" title="Estimated read time">
   
    2 mins  read </span>
 
-  </p>
-</article>
-
-<hr>
-
-
-
-<!-- Pager -->
-
-
+          </span>
+        </div>
       </div>
     </div>
   </div>
+</header>
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-md-10 mx-auto">
+
+      <p>Way back when in late 2019, I became aware of this absolute genius of a man through a DefCon YouTube video <a href="https://www.youtube.com/watch?v=iAOOdYsK7MM">here</a> who essentially used Twitter’s API to enter every single Twitter giveaway on the platform, and he ended up winning some pretty cool stuff.</p>
+
+<p>That year I built out a program, registered for a Twitter dev account “for educational purposes” and all that jazz, and I think in two weeks or so got banned.</p>
+
+<p>Anyways, I came back to it over the past winter break and was determined to make it better. I think it took a couple hours to just revamp that old
+code and make sure I wasn’t at risk of getting banned again. Previously I had it running on my regular computer, but now I have an old Dell
+desktop that I configured to be run as a Linux server so the code is just running there now.</p>
+
+<p>Some notes about what I had changed:</p>
+<ul>
+  <li>No more follower churn/queue, mainly because it was too risky.</li>
+  <li>Same thing with likes, I removed the liking feature entirely since I’m pretty sure that’s why I got banned last time.</li>
+  <li>Limited following.</li>
+  <li>And finally, probably the most big brain move. To maintain a healthy following/follower ratio, I now farm follows by tweeting “giveaway-like” tweets every so often, and have bots that OTHER people create like, follow, and retweet :))</li>
+</ul>
+
+<p>And yeah, that’s pretty much it. I’ve mostly won some small stuff like Pokemon codes, Roblox stuff, and other video game prizes that I’m too lazy to claim but I check in with it every once it a while. Check out the bot in action <a href="https://twitter.com/LuckyWillyV2">here</a>.</p>
+
+<hr />
+<p>Addendum: April 14th, 2022</p>
+
+<p>Finally ported over this old blog post with a couple of edits. Unfortunately, @LuckyWillyV2 is no longer active because I don’t have enough ethernet connections to support my server. Check out highly outdated code <a href="https://github.com/WilliamHYZhang/Twitter-Giveaway-Bot">here</a>.</p>
+
+<p>Fun fact: I talked about this project on one of my Harvard supplemental essays!</p>
+
+
+    </div>
+  </div>
+</div>
 
 
   <!-- Footer -->
