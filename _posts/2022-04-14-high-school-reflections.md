@@ -89,4 +89,4 @@ Am I qualified to give advice? I've gotten a lot of cold DMs on Twitter and emai
 
 ---
 
-Thanks to my good friend Uzay (https://www.uzpg.me/) for reading and reviewing this post.
+Thanks to my good friend [Uzay Girit](https://www.uzpg.me/) for reading and reviewing this post.
