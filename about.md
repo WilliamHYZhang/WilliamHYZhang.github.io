@@ -13,7 +13,7 @@ background: '/img/bg-about.jpg'
   justify-content: center;
   align-content: center;
   flex-direction: column;" markdown="1">
-  I'm currently a high school senior based on Long Island, New York. Outside of school, I'm interested in security (crypto/web3) and AI. I like to lift heavy things, eat yummy food, and build cool stuff.
+  I'm currently a high school senior based on Long Island, New York. I'm most likely incoming at Harvard this fall. Outside of school, I'm interested in security (crypto/web3) and AI. I like to lift heavy things, eat good food, and build cool stuff.
   </div>
 </div>
 
