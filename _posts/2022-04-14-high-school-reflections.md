@@ -74,7 +74,7 @@ Regarding gap years, I totally support them. I was originally planning on workin
 
 # Advice
 
-Am I qualified to give advice? I've gotten a lot of cold DMs on Twitter about advice, wanting to call/chat, etc. Maybe I'll direct some to this post. With further ado, here's some of my tips for young, smart, motivated high schoolers:
+Am I qualified to give advice? I've gotten a lot of cold DMs on Twitter and emails about advice, wanting to call/chat, etc. Maybe I'll direct some to this post. With further ado, here's some of my tips for young, smart, motivated high schoolers:
 - Don't spend too much time on academics (grades, classes, etc.). Law of diminishing returns - obviously take "hard" classes, but if it gets to a point where you are spending significant amounts of time studying and staying up late because of academics, it probably isn't worth it.
   - I just realized I didn't talk about grades or test scores at all - go figure. I was able to coast by most classes with an A, got 5s on the APs and ~1500 on the SAT. 
   - I hate studying (maybe I should write another blog post on why studying for tests and shit is completely useless in the long run), so honestly if you can do decently great on tests with little or no studying you're in an amazing position. That being said, I didn't just "not study" throughout high school. I wish I could've done that, but I did a fair amount of "learning the unit right before the exam".
@@ -86,3 +86,7 @@ Am I qualified to give advice? I've gotten a lot of cold DMs on Twitter about ad
   - Work.
   - Connect with likeminded peers.
   - Don't be afraid of failure or rejection.
+
+---
+
+Thanks to my good friend Uzay (https://www.uzpg.me/) for reading and reviewing this post.
