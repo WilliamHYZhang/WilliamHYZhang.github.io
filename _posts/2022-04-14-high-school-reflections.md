@@ -57,7 +57,7 @@ Finally, on Ivy Day (March 31st) I was pleasantly surprised. Here's a rundown of
 - Stanford
 - Berkeley
 
-## Thoughts
+# Thoughts
 The main selling point of college for me is just to hang out, make new friends/connections, and be exposed to more opportunities. I mean, it's not like the binary search algorithm taught at a community college is going to be any different than the binary search algorithm taught at Harvard.
 
 What makes top colleges stand out is simply the talent density; having so many young ambitious people living together allows for amazing things to happen. It's important to note that talent density isn't only limited to college. Joining a startup, working at a nonprofit, etc. are all valuable ways to be exposed to these networks. However, I think compared to the alternatives, college in general is still the place with the strongest sense of community, camaraderie, and free will - students are working on bettering themselves rather than bettering the companies they work for.
