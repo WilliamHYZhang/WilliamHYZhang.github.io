@@ -58,7 +58,6 @@ Last Updated: Feb. 18, 2022
 - Rejected after interviews with tech companies (trading firms, AI, SaaS)
 - Dropped out of US Army-funded research program since I wasn't interested in it
 - Research was scooped just before publication
-- Rejected in real life
 
 
 ---
