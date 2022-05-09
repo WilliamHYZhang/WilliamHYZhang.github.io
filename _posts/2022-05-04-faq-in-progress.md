@@ -2,7 +2,7 @@
 layout: post
 title:  'FAQ-in-progress'
 date:   2022-05-04
-permalink: 'posts/ambitious-youngling-faq'
+permalink: 'posts/faq-in-progress'
 ---
 
 I've been getting a lot of questions about research, startups, etc. lately, so I figured I would post an FAQ of sorts. If you're young, motivated, ambitious, etc. and reached out asking a question, chances are I sent you this blog post. Enjoy :)
