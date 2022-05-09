@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'High School Reflections'
+title:  'FAQ-in-progress'
 date:   2022-05-04
 permalink: 'posts/ambitious-youngling-faq'
 ---
@@ -28,7 +28,7 @@ A: If we've been well-connected and have known each other for a bit, of course!
 
 Q: __Could you give me some tips for high school?__
 
-A: Yes, read my high school [reflections](/high-school-reflections.html).
+A: Yes, read my high school [reflections](/posts/high-school-reflections.html).
 
 Q: __How did you get into programming so young?__
 
