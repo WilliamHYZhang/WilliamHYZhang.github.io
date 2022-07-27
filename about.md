@@ -13,18 +13,18 @@ background: '/img/bg-about.jpg'
   justify-content: center;
   align-content: center;
   flex-direction: column;" markdown="1">
-  I'm currently a high school senior based on Long Island, New York. I'm incoming at Harvard this fall. Outside of school, I'm interested in security (crypto/web3) and AI. I like to lift heavy things, eat good food, and build cool stuff.
+  I'm currently an incoming first-year at Harvard, originally from NY. Outside of school, I'm interested in security (crypto/web3) and AI. I like to lift heavy things, eat good food, and build cool stuff.
   </div>
 </div>
 
 <p></p>
 
 ### What am I currently up to?
-- Enjoying the last semester of senior year
-- Strategic Advisor at Emergent Ventures AI x Schmidt Futures
+- Enjoying the summer
 - Crypto/AI [<u>research</u>](https://www.hydrasec.ml/){:target="_blank"} with [<u>MIT CSAIL</u>](https://www.csail.mit.edu){:target="_blank"} (IEEE Best Paper Award, Emergent Ventures Grantee, Regeneron STS Scholar)
 
 ### What have I previously done?
+- Strategic Advisor at Emergent Ventures AI x Schmidt Futures
 - Technical consulting at [Stealth Crypto Startup]
 - Software engineering at [<u>Clay</u>](https://www.clay.com/){:target="_blank"}
 - Crypto infrastructure architecting at [<u>Ponto</u>](https://ponto.org/){:target="_blank"}
