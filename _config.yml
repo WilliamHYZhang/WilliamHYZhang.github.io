@@ -27,8 +27,8 @@ twitter_username: WilliamHYZhang
 github_username:  WilliamHYZhang
 
 # Build settings
-remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
-# theme: jekyll-theme-clean-blog
+# remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
   - jekyll-paginate

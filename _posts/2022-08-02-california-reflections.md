@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'California Summer: 1517 + SPARC + EAG + Vibing'
-date:   2022-05-04
+date:   2022-08-02
 permalink: 'posts/california-reflections'
 ---
 On July 14th, I hopped on a plane from Newark to San Diego and began my California adventures [^1]. I took an overnight bus from San Diego to San Francisco a couple of days later, and then took the BART to Berkeley where I stayed for 2 weeks. While at Berkeley, I went on a couple of day trips to nearby cities like Alameda and Oakland. I went back to San Francisco for a night before taking a plane to Santa Barbara, stayed there for a night and then took a bus to Los Angeles where I'm crashing for two nights before heading back to New York. 
@@ -27,20 +27,20 @@ Some of my favorite memories from SPARC include:
 - The best hikes I've even been on, extremely strenuous but worth every step. We went mainly on the Berkeley fire trails. Got to hang out and talk life, girls, tech, and research with my good friends __JA__, __AZ__, and __RA__.
 - Late night guy chats with __AA__, __ML__, __AW__, and some others.
 - Top Dog and boba runs (I can eat 6 hot dogs at once, and if you ever go to Top Dog in Berkeley make sure to get the garlic frankfurter).
-- Beach trips, volleyball, music, spikeball, pool, movies, stadium sneakery, and my first all-nighter (won't be doing that again anytime soon).
+- Beach trips, volleyball, music, spikeball, pool, movies, stadium sneakery, and my first all-nighter with __LS__ and __RF__ (won't be doing that again anytime soon).
 
 SPARC was the absolute best and I can't recommend it enough. Shoutout to __CP__ for recruiting me to the program, I wouldn't have applied if it hadn't been for the personalized email and reminders. I highly recommend this program for really anyone interested in STEM, rationality, cognition, etc.
 
 I still feel like I'm not doing SPARC enough justice, but just know it's more than worth it to attend :)
 
 # EAG
-My friends have been hyping up EAG conferences for a while, so I finally decided to apply. Happy that I got in, and EAG SF was quite the interesting experience. For starters, I didn't receive SwapCard access until the day I went there, so couldn't schedule 1 on 1s. A lot of the time was just talking to random people and getting to know the gist of EA a bit better. The food was fucking vegan btw. All in all, I am much more pro-EA compared to before the conference, but I still have concerns about funding methods for longtermism (AI safety, alignment, interpretability). I'll be attending some more EAG conferences in the near future, where hopefully I'll get SwapCard access on time and can schedule some useful 1 on 1s!
+My friends have been hyping up EAG conferences for a while, so I finally decided to apply. Happy that I got in, and EAG SF was quite the interesting experience. For starters, I didn't receive SwapCard access until the day I went there, so couldn't schedule 1 on 1s. A lot of the time was just talking to random people and getting to know the gist of EA a bit better. The food was vegan btw smh. All in all, I am much more pro-EA compared to before the conference, but I still have concerns about funding methods for longtermism (AI safety, alignment, interpretability). I'll be attending some more EAG conferences in the near future, where hopefully I'll get SwapCard access on time and can schedule some useful 1 on 1s!
 
 # Vibing: Santa Barbara and LA
 Quality time surfing, beach walking, and eating amazing food in Santa Barbara and LA. Hanging out with friends and enjoying the last few weeks of summer.
 
 # Closing Thoughts
-Seriously loving my time in California. The weather is just soooo fucking nice compared to the shithole of NYC weather. I probably won't live here until I'm like 40 though, this place makes me want to chill, vibe, and get absolutely nothing productive done.
+Seriously loving my time in California. The weather is just soooo nice compared to the shithole of NYC weather. I probably won't live here until I'm like 40 though, this place makes me want to chill, vibe, and get absolutely nothing productive done.
 
 ---
 [^1]: A bit of a tangent, but I think people my age and younger should travel solo more. I started with traveling solo to NYC (Manhattan for visiting friends and Brooklyn for work), then made my way up to going alone to Washington DC and Boston for conferences, and now the west coast far away from home. It's been an amazing experience and you get the freedom to explore and meet new people!
