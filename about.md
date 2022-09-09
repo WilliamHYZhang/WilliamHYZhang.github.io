@@ -13,17 +13,17 @@ background: '/img/bg-about.jpg'
   justify-content: center;
   align-content: center;
   flex-direction: column;" markdown="1">
-  I'm currently an incoming first-year at Harvard, originally from NY. Outside of school, I'm interested in security (crypto/web3) and AI. I like to lift heavy things, eat good food, and build cool stuff.
+  I'm currently a first-year at Harvard, originally from NY. Outside of school, I'm interested in security (crypto/web3) and AI. I like to lift heavy things, eat good food, and build cool stuff.
   </div>
 </div>
 
 <p></p>
 
 ### What am I currently up to?
-- Enjoying the summer
-- Crypto/AI [<u>research</u>](https://www.hydrasec.ml/){:target="_blank"} with [<u>MIT CSAIL</u>](https://www.csail.mit.edu){:target="_blank"} (IEEE Best Paper Award, Emergent Ventures Grantee, Regeneron STS Scholar)
+- College life
 
 ### What have I previously done?
+- Crypto/AI [<u>research</u>](https://www.hydrasec.ml/){:target="_blank"} with [<u>MIT CSAIL</u>](https://www.csail.mit.edu){:target="_blank"} (IEEE Best Paper Award, Emergent Ventures Grantee, Regeneron STS Scholar)
 - Strategic Advisor at Emergent Ventures AI x Schmidt Futures
 - Technical consulting at [Stealth Crypto Startup]
 - Software engineering at [<u>Clay</u>](https://www.clay.com/){:target="_blank"}
